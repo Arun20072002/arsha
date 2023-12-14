@@ -1,0 +1,53 @@
+/* mobile */
+	@media(min-width:320px){
+		#banner-section{
+			height:110vh;
+		}
+		.team-card{
+			height:50vh;
+		}
+		#TEAM-section{
+			height:270vh;
+		}
+		.pricing-card{
+			width:100%
+		}
+		
+	}
+
+
+
+/* i-pad */
+	@media(min-width:760px){
+		#banner-section{
+			height:90vh;
+		}
+		.team-card{
+			height:30vh;
+		}
+		#TEAM-section{
+			height:150vh;
+		}
+		.pricing-card{
+			width:50%
+		}
+		
+	}
+
+
+/* laptop */
+	@media(min-width:960px){
+		#banner-section{
+			height:80vh;
+		}
+		.team-card{
+			height:50vh;
+		}
+		#TEAM-section{
+			height:150vh;
+		}
+		.pricing-card{
+			width:100%
+		}
+		
+	}
